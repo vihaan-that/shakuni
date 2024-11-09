@@ -1,0 +1,10 @@
+/* styles/Home.module.css */
+.container {
+  background-color: #000B58;
+  color: #FFF4B7;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+}
