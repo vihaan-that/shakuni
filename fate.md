@@ -1,1 +1,0 @@
-fortune favors the bold
